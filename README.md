@@ -1,3 +1,18 @@
+## Blog Site 
+**Home page**
+
+![Screenshot (84)](https://github.com/zainab224498/react-blog/assets/167907666/0d441903-d094-4800-aff2-491eed7d5e3b)
+
+
+**Blog Page**
+
+![Screenshot (82)](https://github.com/zainab224498/react-blog/assets/167907666/c11c394c-dee7-43a4-b9e3-b8e1c1705a6b)
+
+**Add Blog Page**
+
+![Screenshot (83)](https://github.com/zainab224498/react-blog/assets/167907666/497688a4-ce77-44fd-ba73-0ba2b5a26068)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -6,9 +21,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-![Screenshot (84)](https://github.com/zainab224498/react-blog/assets/167907666/0d441903-d094-4800-aff2-491eed7d5e3b)
-![Screenshot (83)](https://github.com/zainab224498/react-blog/assets/167907666/497688a4-ce77-44fd-ba73-0ba2b5a26068)
-![Screenshot (82)](https://github.com/zainab224498/react-blog/assets/167907666/c11c394c-dee7-43a4-b9e3-b8e1c1705a6b)
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
