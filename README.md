@@ -1,16 +1,17 @@
+
 ## Blog Site 
 **Home page**
 
-![Screenshot (84)](https://github.com/zainab224498/react-blog/assets/167907666/0d441903-d094-4800-aff2-491eed7d5e3b)
+![Screenshot (85)](https://github.com/zainab224498/react-blog/assets/167907666/1b7334d6-dd18-492a-a984-a3b35916affc)
 
 
 **Blog Page**
 
-![Screenshot (82)](https://github.com/zainab224498/react-blog/assets/167907666/c11c394c-dee7-43a4-b9e3-b8e1c1705a6b)
+![Screenshot (86)](https://github.com/zainab224498/react-blog/assets/167907666/bacd1b1e-79cc-411c-ae0f-b324fefca4c1)
 
 **Add Blog Page**
 
-![Screenshot (83)](https://github.com/zainab224498/react-blog/assets/167907666/497688a4-ce77-44fd-ba73-0ba2b5a26068)
+![Screenshot (87)](https://github.com/zainab224498/react-blog/assets/167907666/a44dfa4c-72b0-4404-8474-c01b0f9b62b5)
 
 
 ## Available Scripts
